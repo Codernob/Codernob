@@ -33,6 +33,8 @@ Achieved for seven consecutive semesters<br />
 ●	232nd out of 384 teams at Robi Datathon 2.0<br />
 ●	121st among 500+ teams at Code Samurai Online Preliminary Contest 2022<br />
 
+For any kind of queries, feel free to contact me at arnob319@gmail.com
+
 <!--
 **Codernob/Codernob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
