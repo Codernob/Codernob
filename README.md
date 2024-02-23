@@ -1,6 +1,6 @@
 My main objective is to become an established academic scholar. I intend to apply my critical thinking, communication, mathematical induction, research, and programming skills in my professional career. My areas of interest are computer vision, natural language processing, and generative models.
 
-I graduated with a CGPA of 3.97 from the Department of Computer Science & Engineering, University of Asia Pacific.
+I graduated with a CGPA of 3.97 from the Department of Computer Science & Engineering, University of Asia Pacific. I am currently working as a Lecturer at the department of CSE, UAP.
 
 TECHNICAL SKILLS <br />
 ●	Machine Learning: Convolutional Neural Networks, Transformers, Generative Models (Generative Adversarial Networks, Variational Autoencoders). <br />
@@ -33,7 +33,7 @@ Achieved for seven consecutive semesters<br />
 ●	232nd out of 384 teams at Robi Datathon 2.0<br />
 ●	121st among 500+ teams at Code Samurai Online Preliminary Contest 2022<br />
 
-For any kind of queries, feel free to contact me at arnob319@gmail.com
+For any kind of queries, feel free to contact me at arnob@uap-bd.edu
 
 <!--
 **Codernob/Codernob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
