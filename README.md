@@ -10,7 +10,7 @@ TECHNICAL SKILLS <br />
 ●	Programming Language: C, C++, C#, Java, Python, MATLAB, Octave, R, SQL, Verilog <br />
 ●	Other Technical Skills: Problem Solving(Solved 300+ problems on various online judges), Github Desktop, ESP32, TinyML, Edge Impulse Studio, Arduino IDE, Google Colab, VS Code, Django, Android Studio, Touch Typing, Unity <br />
 
-I have multiple novel research ideas in the Generative AI, Bangla NLP and TinyML field that I will pursue in the following months.
+I have multiple novel research ideas in Generative AI, NLP and Computer Vision areas that I am currently pursuing.
 
 ATTENDED ONLINE COURSES <br />
 Coursera Deep Learning Specialization <br />
@@ -25,9 +25,11 @@ Coursera Mathematics for Computer Science<br />
 ●	Linear Algebra, Multivariate Calculus<br />
 
 HONORS AND AWARDS<br />
+●	Vice Chancellor's Gold Medal<br />
+Achieved for obtaining the highest CGPA from the CSE department in the Fall 2022 semester at UAP<br />
 ●	Vice Chancellor's Award<br />
 An academic award for students who achieved CGPA 3.90+ in a semester<br />
-Achieved for seven consecutive semesters<br />
+Achieved for eight consecutive semesters<br />
 ●	Runner-up at Intra-UAP Programming Contest 2020 - Junior Section<br />
 ●	369th among 1747 teams at 2021 ICPC Asia Dhaka Regional Site Online Preliminary Contest<br />
 ●	232nd out of 384 teams at Robi Datathon 2.0<br />
